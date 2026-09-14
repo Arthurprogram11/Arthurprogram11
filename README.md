@@ -1,48 +1,37 @@
-# 💻 Arthur de Lima
+# Arthur de Lima
 
-**Desenvolvedor Júnior**
+**Estudante de Análise e Desenvolvimento de Sistemas | Em busca do primeiro estágio em tecnologia**
 
-Me chamo Arthur de Lima Silva, tenho 18 anos e sou natural de Fortaleza. Desde cedo sou fascinado por tecnologia, o que me motivou a seguir carreira na área de Tecnologia da Informação. Atualmente, curso Análise e Desenvolvimento de Sistemas na Unichristus, com o objetivo de me tornar um desenvolvedor Full Stack.
+Sou estudante de ADS na Unichristus, em Fortaleza–CE. Estou construindo minha base técnica por meio de estudos e projetos práticos, buscando transformar conhecimento em soluções que eu consiga explicar, testar e evoluir.
 
-<p align="left">
-    <a href="https://www.instagram.com/o_aprendiz_dev/">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
+Tenho interesse principalmente em desenvolvimento de software, back-end, desenvolvimento web, Python, dados e automação.
 
-<a href="https://www.linkedin.com/in/arthurlima1011">
-        <img 
-            alt="LinkedIn" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+## Conhecimentos atuais
 
- <a href="mailto:arthurllima1110@gmail.com">
-        <img 
-            alt="Email" 
-            title="Email" 
-            src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
+- **Python:** fundamentos, lógica de programação e pequenos projetos;
+- **JavaScript:** fundamentos e desenvolvimento web básico;
+- **HTML e CSS:** criação e estilização de interfaces;
+- **Git e GitHub:** versionamento e organização de projetos em nível inicial.
 
----
+## Foco atual
 
-### 🤖 Linguagens e Tecnologias
+- aprofundar meus fundamentos de programação;
+- desenvolver projetos de portfólio baseados em problemas e dados reais;
+- praticar organização de código, documentação e testes;
+- preparar-me para oportunidades de estágio em tecnologia.
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="React" title="React" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+## Portfólio em construção
 
-<br/>
-<br/>
+### DataFlow — planejado
 
----
+Pipeline ETL com Python e SQL, utilizando dados públicos, validações, testes e integração contínua.
+
+### PulseCheck — planejado
+
+Aplicação web para monitoramento de disponibilidade de sites, histórico de verificações e alertas.
+
+Os repositórios serão adicionados aqui conforme o desenvolvimento produzir versões reais e demonstráveis.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/arthurlima1011) · [E-mail](mailto:arthurllima1110@gmail.com)
