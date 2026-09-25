@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/arthurlima1011">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
   </a>
-  <a href="mailto:arthurlimadev1@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=arthurlimadev1@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="E-mail"/>
   </a>
   <a href="https://www.instagram.com/tutessz_/">
@@ -64,12 +64,18 @@ Minha prioridade atual é fortalecer os fundamentos de programação, desenvolve
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=java,postgres&theme=dark"
-    alt="Java e PostgreSQL"
+    src="https://skillicons.dev/icons?i=java&theme=dark"
+    alt="Java"
   />
   <img
-    src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF"
+    width="48"
+    height="48"
+    src="./assets/sql.svg"
     alt="SQL"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=postgres&theme=dark"
+    alt="PostgreSQL"
   />
 </p>
 
@@ -203,9 +209,13 @@ Estou aberto a oportunidades de estágio, conexões com outros estudantes e conv
   <a href="https://www.linkedin.com/in/arthurlima1011">
     <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"/>
   </a>
-  <a href="mailto:arthurlimadev1@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=arthurlimadev1@gmail.com">
     <img src="https://img.shields.io/badge/Enviar%20um%20e--mail-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Enviar e-mail"/>
   </a>
+</p>
+
+<p align="center">
+  <strong>E-mail:</strong> arthurlimadev1@gmail.com
 </p>
 
 <p align="center">
