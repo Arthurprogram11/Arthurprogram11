@@ -90,13 +90,16 @@ Minha prioridade atual é fortalecer os fundamentos de programação, desenvolve
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📁 Organizador de Arquivos</h3>
+      <h3><a href="https://github.com/Arthurprogram11/organizador-de-arquivos">📁 Organizador de Arquivos</a></h3>
       <img src="https://img.shields.io/badge/status-em%20desenvolvimento-58A6FF?style=flat-square" alt="Em desenvolvimento"/>
       <p>
         Projeto em Python para organizar arquivos automaticamente, praticando
         manipulação de caminhos, operações seguras e tratamento de erros.
       </p>
       <p><strong>Foco:</strong> Python, pathlib, shutil e testes básicos.</p>
+      <a href="https://github.com/Arthurprogram11/organizador-de-arquivos">
+        <img src="https://img.shields.io/badge/Ver%20repositório-161B22?style=flat-square&logo=github&logoColor=58A6FF" alt="Ver repositório"/>
+      </a>
     </td>
     <td width="50%" valign="top">
       <h3>🔎 DevFinder</h3>
@@ -130,7 +133,7 @@ Minha prioridade atual é fortalecer os fundamentos de programação, desenvolve
   </tr>
 </table>
 
-> Os links serão adicionados quando cada repositório possuir uma versão real e demonstrável.
+> Os demais links serão adicionados quando cada projeto possuir uma versão real e demonstrável.
 
 ---
 
