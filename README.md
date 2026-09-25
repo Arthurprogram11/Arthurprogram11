@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/arthurlima1011">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
   </a>
-  <a href="mailto:arthurllima1110@gmail.com">
+  <a href="mailto:arthurlimadev1@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="E-mail"/>
   </a>
   <a href="https://www.instagram.com/tutessz_/">
@@ -44,7 +44,7 @@ Minha prioridade atual é fortalecer os fundamentos de programação, desenvolve
 - 🎯 Buscando meu primeiro estágio em tecnologia;
 - 🧠 Fortalecendo lógica, programação e desenvolvimento web;
 - 🧩 Interessado em desenvolvimento de software, back-end, automação e dados;
-- 📚 Atualmente estudando Python, Java, JavaScript e Git/GitHub;
+- 📚 Atualmente estudando Python, Java, JavaScript, Git/GitHub, SQL e PostgreSQL;
 - 🚀 Construindo projetos próprios para transformar estudo em experiência prática.
 
 ---
@@ -64,10 +64,16 @@ Minha prioridade atual é fortalecer os fundamentos de programação, desenvolve
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=java&theme=dark"
-    alt="Java"
+    src="https://skillicons.dev/icons?i=java,postgres&theme=dark"
+    alt="Java e PostgreSQL"
+  />
+  <img
+    src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=58A6FF"
+    alt="SQL"
   />
 </p>
+
+**Em estudo:** Java, SQL e PostgreSQL.
 
 > As tecnologias serão adicionadas conforme eu realmente estudar e utilizar cada uma em projetos.
 
@@ -197,7 +203,7 @@ Estou aberto a oportunidades de estágio, conexões com outros estudantes e conv
   <a href="https://www.linkedin.com/in/arthurlima1011">
     <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"/>
   </a>
-  <a href="mailto:arthurllima1110@gmail.com">
+  <a href="mailto:arthurlimadev1@gmail.com">
     <img src="https://img.shields.io/badge/Enviar%20um%20e--mail-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Enviar e-mail"/>
   </a>
 </p>
