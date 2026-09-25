@@ -1,37 +1,211 @@
-# Arthur de Lima
+<!-- Banner -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,55:161B22,100:58A6FF&height=220&section=header&text=Arthur%20de%20Lima&fontSize=44&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Fortaleza%2C%20CE&descAlignY=58&descSize=18"
+    alt="Banner de apresentação de Arthur de Lima"
+  />
+</p>
 
-**Estudante de Análise e Desenvolvimento de Sistemas | Em busca do primeiro estágio em tecnologia**
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Python%2C+JavaScript+e+desenvolvimento+web;Construindo+projetos+que+consigo+explicar;e+buscando+meu+primeiro+est%C3%A1gio+em+tecnologia"
+      alt="Apresentação animada"
+    />
+  </a>
+</p>
 
-Sou estudante de ADS na Unichristus, em Fortaleza–CE. Estou construindo minha base técnica por meio de estudos e projetos práticos, buscando transformar conhecimento em soluções que eu consiga explicar, testar e evoluir.
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthurlima1011">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:arthurllima1110@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="E-mail"/>
+  </a>
+  <a href="https://www.instagram.com/tutessz_/">
+    <img src="https://img.shields.io/badge/@tutessz__-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram"/>
+  </a>
+</p>
 
-Tenho interesse principalmente em desenvolvimento de software, back-end, desenvolvimento web, Python, dados e automação.
+---
 
-## Conhecimentos atuais
+## Sobre mim
 
-- **Python:** fundamentos, lógica de programação e pequenos projetos;
-- **JavaScript:** fundamentos e desenvolvimento web básico;
-- **HTML e CSS:** criação e estilização de interfaces;
-- **Git e GitHub:** versionamento e organização de projetos em nível inicial.
+Sou estudante do **2º semestre de Análise e Desenvolvimento de Sistemas na Unichristus**, em Fortaleza–CE, e estou em busca do meu primeiro estágio em tecnologia.
 
-## Foco atual
+Gosto de entender a teoria antes de colocá-la em prática. Por isso, estou construindo minha base técnica por meio de projetos que eu consiga explicar, testar e evoluir — desde as decisões iniciais até o funcionamento do código.
 
-- aprofundar meus fundamentos de programação;
-- desenvolver projetos de portfólio baseados em problemas e dados reais;
-- praticar organização de código, documentação e testes;
-- preparar-me para oportunidades de estágio em tecnologia.
+Minha prioridade atual é fortalecer os fundamentos de programação, desenvolver um portfólio consistente e avançar gradualmente em direção ao desenvolvimento Full Stack.
 
-## Portfólio em construção
+> Aprender, para mim, significa entender o que estou construindo — não apenas fazer o código funcionar.
 
-### DataFlow — planejado
+- 🎯 Buscando meu primeiro estágio em tecnologia;
+- 🧠 Fortalecendo lógica, programação e desenvolvimento web;
+- 🧩 Interessado em desenvolvimento de software, back-end, automação e dados;
+- 📚 Atualmente estudando Python, Java, JavaScript e Git/GitHub;
+- 🚀 Construindo projetos próprios para transformar estudo em experiência prática.
 
-Pipeline ETL com Python e SQL, utilizando dados públicos, validações, testes e integração contínua.
+---
 
-### PulseCheck — planejado
+## Tecnologias e ferramentas
 
-Aplicação web para monitoramento de disponibilidade de sites, histórico de verificações e alertas.
+### Conhecimentos atuais
 
-Os repositórios serão adicionados aqui conforme o desenvolvimento produzir versões reais e demonstráveis.
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode&theme=dark"
+    alt="Python, HTML, CSS, JavaScript, Git, GitHub e VS Code"
+  />
+</p>
 
-## Contato
+### Estudando atualmente
 
-[LinkedIn](https://www.linkedin.com/in/arthurlima1011) · [E-mail](mailto:arthurllima1110@gmail.com)
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=java&theme=dark"
+    alt="Java"
+  />
+</p>
+
+> As tecnologias serão adicionadas conforme eu realmente estudar e utilizar cada uma em projetos.
+
+---
+
+## Projetos em construção
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📁 Organizador de Arquivos</h3>
+      <img src="https://img.shields.io/badge/status-em%20desenvolvimento-58A6FF?style=flat-square" alt="Em desenvolvimento"/>
+      <p>
+        Projeto em Python para organizar arquivos automaticamente, praticando
+        manipulação de caminhos, operações seguras e tratamento de erros.
+      </p>
+      <p><strong>Foco:</strong> Python, pathlib, shutil e testes básicos.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔎 DevFinder</h3>
+      <img src="https://img.shields.io/badge/status-planejado-8B949E?style=flat-square" alt="Planejado"/>
+      <p>
+        Aplicação front-end para pesquisar perfis do GitHub e apresentar
+        informações obtidas por uma API pública.
+      </p>
+      <p><strong>Foco:</strong> HTML, CSS, JavaScript, Fetch API e LocalStorage.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 DataFlow</h3>
+      <img src="https://img.shields.io/badge/status-planejado-8B949E?style=flat-square" alt="Planejado"/>
+      <p>
+        Pipeline ETL utilizando dados públicos de Equipes de Saúde da Família,
+        com validação, transformação, carga, testes e relatório de qualidade.
+      </p>
+      <p><strong>Foco:</strong> Python, SQL, dados, testes e CI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 PulseCheck</h3>
+      <img src="https://img.shields.io/badge/status-planejado-8B949E?style=flat-square" alt="Planejado"/>
+      <p>
+        Aplicação web para monitorar a disponibilidade de sites, armazenar
+        histórico de verificações e emitir alertas.
+      </p>
+      <p><strong>Foco:</strong> back-end, APIs, banco de dados e processamento periódico.</p>
+    </td>
+  </tr>
+</table>
+
+> Os links serão adicionados quando cada repositório possuir uma versão real e demonstrável.
+
+---
+
+## Evolução no GitHub
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Arthurprogram11&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&locale=pt-br"
+    alt="Estatísticas do GitHub de Arthur"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthurprogram11&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&locale=pt-br"
+    alt="Linguagens mais utilizadas por Arthur"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arthurprogram11&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=F0F6FC&area=true&hide_border=true&custom_title=Atividade%20de%20Arthur%20no%20GitHub"
+    alt="Gráfico de atividade de Arthur no GitHub"
+  />
+</p>
+
+<details>
+  <summary><strong>Ver mais estatísticas</strong></summary>
+
+  <br/>
+
+  <p align="center">
+    <img
+      src="https://streak-stats.demolab.com/?user=Arthurprogram11&hide_border=true&locale=pt_BR&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E"
+      alt="Sequência de contribuições de Arthur"
+    />
+  </p>
+
+  <p align="center">
+    <img
+      width="95%"
+      src="https://github-profile-trophy.vercel.app/?username=Arthurprogram11&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6"
+      alt="Troféus do perfil de Arthur"
+    />
+  </p>
+</details>
+
+---
+
+## Contribuições
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Arthurprogram11/Arthurprogram11/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Arthurprogram11/Arthurprogram11/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/Arthurprogram11/Arthurprogram11/output/github-contribution-grid-snake.svg"
+      alt="Animação das contribuições de Arthur"
+    />
+  </picture>
+</p>
+
+---
+
+## Vamos conversar?
+
+Estou aberto a oportunidades de estágio, conexões com outros estudantes e conversas sobre tecnologia, programação e desenvolvimento de projetos.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arthurlima1011">
+    <img src="https://img.shields.io/badge/Conectar%20no%20LinkedIn-58A6FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn"/>
+  </a>
+  <a href="mailto:arthurllima1110@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar%20um%20e--mail-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Enviar e-mail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,45:161B22,100:0D1117&height=120&section=footer"
+    alt="Rodapé"
+  />
+</p>
